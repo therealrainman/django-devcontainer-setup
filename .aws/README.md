@@ -42,3 +42,8 @@
 
 ### 14. Open the project folder in VSCode and develop the same as on a local machine
 ![](./screenshots/15_vscode_folder_browser.png)
+
+### Potential improvements:
+- Bootstrapping automation
+- Save AMI
+- Preconfigure security groups
